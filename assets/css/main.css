@@ -1323,13 +1323,16 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
-
+/*text-control*/
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
-		font-weight: 300;
-		color: #777777;
+		font-weight: 500;
+		color: #1d0000;
 		font-size: 20pt;
 		line-height: 1.75em;
+		text-transform: uppercase;
+		text-align: center;
+		letter-spacing: 0.0.9em;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -1366,7 +1369,8 @@ input, select, textarea {
 
 	strong, b, h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #363636;
+		color: #c50000;
+		text-transform: uppercase;
 	}
 
 	h1 {
