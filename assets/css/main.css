@@ -1366,7 +1366,7 @@ input, select, textarea {
 			}
 
 		}
-
+/*text-control-h1-2-3-4-5*/
 	strong, b, h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
 		color: #c50000;
@@ -1465,7 +1465,7 @@ input, select, textarea {
 			border-bottom: solid 2px #f4f4f4;
 		}
 
-/* Form */
+/* Form 
 
 	form label {
 		display: block;
@@ -1519,7 +1519,8 @@ input, select, textarea {
 
 	form :-ms-input-placeholder {
 		color: #999;
-	}
+	}*/
+
 
 /* Section/Article */
 
@@ -1784,11 +1785,11 @@ input, select, textarea {
 		#nav a {
 			position: relative;
 			display: inline-block;
-			color: #ffffff;
+			color: #ffffffd0;
 			width: 1em;
 			height: 1em;
 			line-height: 0.9em;
-			font-size: 2.5em;
+			font-size: 2.1em;
 			margin: 0 0.25em 0 0.25em;
 			opacity: 0.35;
 			outline: 0;
@@ -1803,7 +1804,7 @@ input, select, textarea {
 			}
 
 			#nav a:before {
-				font-size: 0.8em;
+				font-size: 0.7em;
 			}
 
 			#nav a:after {
@@ -1820,9 +1821,11 @@ input, select, textarea {
 				-webkit-transition: border-bottom-width .25s ease-in-out;
 				-ms-transition: border-bottom-width .25s ease-in-out;
 				transition: border-bottom-width .25s ease-in-out;
+				font-family: 'Source Sans Pro', sans-serif;
 			}
 
 			#nav a span {
+				font-family: 'Source Sans Pro', sans-serif;
 				display: block;
 				position: absolute;
 				background: #222222;
@@ -1839,6 +1842,7 @@ input, select, textarea {
 				transition: opacity .25s ease-in-out;
 				width: 5.5em;
 				margin-left: -2.75em;
+				
 			}
 
 				#nav a span:after {
@@ -1851,10 +1855,11 @@ input, select, textarea {
 					border-top: solid 0.6em #222222;
 					border-left: solid 0.6em transparent;
 					border-right: solid 0.6em transparent;
+					
 				}
 
 			#nav a:hover {
-				opacity: 1.0;
+				opacity: 2.0;
 			}
 
 				#nav a:hover span {
