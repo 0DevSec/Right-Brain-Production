@@ -1331,7 +1331,7 @@ input, select, textarea {
 		font-size: 20pt;
 		line-height: 1.75em;
 		text-transform: uppercase;
-		text-align: center right;
+		text-align: right center;
 		letter-spacing: 0.0.9em;
 	}
 
