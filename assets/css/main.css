@@ -1372,6 +1372,7 @@ input, select, textarea {
 		font-weight: 400;
 		color: #c50000;
 		text-transform: uppercase;
+		text-align: center;
 	}
 
 	h1 {
