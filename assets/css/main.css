@@ -1327,11 +1327,11 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 500;
-		color: #8f0909;
+		color: #000000;
 		font-size: 20pt;
 		line-height: 1.75em;
 		text-transform: uppercase;
-		text-align: center left;
+		text-align: center right;
 		letter-spacing: 0.0.9em;
 	}
 
