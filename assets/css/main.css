@@ -1329,11 +1329,12 @@ input, select, textarea {
 		font-weight: 500;
 		color: #000000;
 		font-size: 20pt;
-		line-height: 1.75em;
+		line-height: 1.90em;
 		text-transform: uppercase;
 		text-align: center;
-		text-align: right;
+		text-align: center;
 		letter-spacing: 0.0.9em;
+		
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -1369,10 +1370,11 @@ input, select, textarea {
 		}
 /*text-control-h1-2-3-4-5*/
 	strong, b, h1, h2, h3, h4, h5, h6 {
-		font-weight: 400;
+		font-weight: 470;
 		color: #c50000;
 		text-transform: uppercase;
-		text-align: center;
+		
+		
 	}
 
 	h1 {
@@ -1382,8 +1384,14 @@ input, select, textarea {
 
 	h2 {
 		font-size: 1.8em;
-		letter-spacing: -0.030em;
+		letter-spacing: -0.040em;
+		text-align: center;
+		margin: 0;
+  
+		
+		
 	}
+	
 
 	h3, h4, h5, h6 {
 		font-size: 1.25em;
@@ -1398,10 +1406,19 @@ input, select, textarea {
 
 		h2 {
 			font-size: 1.375em;
+			
+			
 		}
+
+		
 
 		h3, h4, h5, h6 {
 			font-size: 1em;
+		}
+		.H32{
+             
+			letter-spacing: em;
+			
 		}
 
 	}
