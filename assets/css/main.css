@@ -1391,6 +1391,7 @@ font-weight: bold;
 		letter-spacing: 0.099em;
 		font-weight: bolder;
 		
+		
 	}
 
 	h2 {
@@ -1398,7 +1399,7 @@ font-weight: bold;
 		letter-spacing: -0.040em;
 		text-align: center;
 		margin: 0;
-        
+       
 		
 		
 	}
@@ -1406,7 +1407,7 @@ font-weight: bold;
 
 	.H32{
              
-		color: #01E1DA;
+		
 		
 	}
 
@@ -1597,6 +1598,9 @@ font-weight: bold;
 			display: block;
 			width: 100%;
 			margin-top: -1em;
+			margin-left: -1.5em;
+
+			
 		}
 
 		.image.featured {
