@@ -2088,8 +2088,9 @@ font-weight: bold;
 						line-height: 1.25em;
 						margin-bottom: 0;
 						margin-left: -0.6em;
-						color: #000;
+					
 						width: bolder;
+						text-align: center;
 					}
 
 					#main > .panel.intro header p {
