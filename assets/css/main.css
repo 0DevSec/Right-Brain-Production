@@ -1341,7 +1341,13 @@ input, select, textarea {
 
 #p2{text-align: left;
 font-weight: bold;
+margin-top: 5%;
 
+}
+
+.H32{
+
+	color: #000;
 }
 
 
@@ -1794,7 +1800,7 @@ font-weight: bold;
 				left: 50%;
 				bottom: -0.75em;
 				margin-left: -0.5em;
-				border-bottom: solid 0em #ffffff;
+				border-bottom: solid 0em #000000;
 				border-left: solid 0.5em transparent;
 				border-right: solid 0.5em transparent;
 				-moz-transition: border-bottom-width .25s ease-in-out;
